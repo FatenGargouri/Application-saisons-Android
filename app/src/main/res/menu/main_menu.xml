@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.saisons.MainActivity">
+    <item
+        android:id="@+id/ete"
+        android:orderInCategory="100"
+        android:title="@string/ete"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/printemps"
+        android:orderInCategory="100"
+        android:title="@string/printemps"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/hivers"
+        android:orderInCategory="100"
+        android:title="@string/hivers"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/automne"
+        android:orderInCategory="100"
+        android:title="@string/automne"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/quitter"
+        android:orderInCategory="100"
+        android:title="@string/quitter"
+        app:showAsAction="never" />
+</menu>

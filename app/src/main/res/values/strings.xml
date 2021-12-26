@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My_Application</string>
+    <string name="ete">Ete</string>
+    <string name="printemps">Printemps</string>
+    <string name="hivers">Hivers</string>
+    <string name="automne">Automne</string>
+    <string name="quitter">Quitter</string>
+    <string name="question">Etes-vous sur de vouloir quitter ?</string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+</resources>
